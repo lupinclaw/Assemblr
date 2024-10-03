@@ -1,0 +1,6 @@
+math add R1 R2 R3 
+load 100 R1 
+math subtract R29 R5 R7
+store 20 R20
+push 5 R3
+halt
